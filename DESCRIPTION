@@ -1,0 +1,15 @@
+Package: tubeR
+Title: Various Functions and Tools for <sentientpotato.github.io>
+Version: 0.0.0.9000
+Authors@R: 
+    person(
+        given  = "Sentient",
+        family = "Potato",
+        email  = "sentient.potato138@gmail.com"
+    )
+Description: Various functions and tools used in maintaining
+    <sentientpotato.github.io>, including tools for election forecasting
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
